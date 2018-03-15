@@ -53,7 +53,7 @@ lang: $(WIKI_LANG)
 public: $(WIKI_IS_PUBLIC)
 
 auth:
-  defaultReadAccess: true
+  defaultReadAccess: false
   local:
     enabled: true
   google:
