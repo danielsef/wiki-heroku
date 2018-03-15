@@ -69,9 +69,9 @@ auth:
     clientId: FACEBOOK_APP_ID
     clientSecret: FACEBOOK_APP_SECRET
   github:
-    enabled: false
-    clientId: GITHUB_CLIENT_ID
-    clientSecret: GITHUB_CLIENT_SECRET
+    enabled: true
+    clientId: ad494ee12c3f3eba166d
+    clientSecret: fd88e8d881ff1f53a571134ea91dd01b8bbe44ae
   slack:
     enabled: false
     clientId: SLACK_CLIENT_ID
